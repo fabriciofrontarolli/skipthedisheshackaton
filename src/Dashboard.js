@@ -14,7 +14,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <label className="title-logo">Analytics Dashboard</label>
           <div className="user-info-container">
-            <label className="restaurant-name">Pizza Hut Winnipeg</label>
+            <label className="restaurant-name">Fabricio Frontarolli Restaurant - Winnipeg</label>
             <img src={userIcon} className="user-icon" />
           </div>
         </div>
