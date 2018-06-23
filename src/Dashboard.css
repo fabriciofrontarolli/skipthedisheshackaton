@@ -1,0 +1,27 @@
+.App-logo {
+  height: 60px;
+}
+
+.user-icon {
+  height: 24px;
+  margin-left: 10px;
+}
+
+.user-info-container {
+  display: flex;
+  align-items: center;
+}
+
+.App-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #E91431;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}

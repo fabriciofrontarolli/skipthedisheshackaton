@@ -1,0 +1,17 @@
+.UserDashboard {
+  min-height: 500px;
+  padding: 10px;
+  color: #222;
+  display: flex;
+}
+
+.UserDashboardTabs{
+  width: 100%;
+  padding-top: 20px;
+}
+
+.title-logo {
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 15px;
+}
